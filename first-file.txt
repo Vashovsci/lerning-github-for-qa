@@ -1,1 +1,3 @@
 this is the first text that i've entered to this file
+
+i added some changes on github on 20.10.24
